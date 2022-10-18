@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [rahultanwar.site](rahultanwar.site)
 
-- 💬 Ask me about **UiPath,COBOL,SQL,Pyhton**
+- 💬 Ask me about **UiPath,SQL,Pyhton**
 
 - 📫 How to reach me **rahultanwarlpu@gmail.com**
 
